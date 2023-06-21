@@ -1,7 +1,7 @@
 ---
 title: "Technology Governance & Implementation Specialist "
 description: "Vodafone Oman  (Muscat)"
-dateString: June 2022 - May 2023
+dateString: June 2022 - Present
 draft: false
 tags: ["Mobile App Testing", "User Experience Enhancement", "Android", "iOS", "5G", "VoLTE", "UX/UI", "Data Analysis", "Technical Testing", "Collaboration", "Data-Driven Decisions", "ChatBot Development"]
 
