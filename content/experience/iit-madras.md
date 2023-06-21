@@ -1,5 +1,5 @@
 ---
-title: "AWS Solution Architecture Internship "
+title: "AWS Solution Architect"
 description: "US Electronics, Inc."
 dateString: September 2019 – November 2019
 draft: false

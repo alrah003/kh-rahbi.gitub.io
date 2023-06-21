@@ -1,7 +1,6 @@
 ---
-title: "Professional Experience: Project Management and Training Coordination"
-description: "Short summary of my professional experience"
-dateString: October 2022- May 2022
+title: "Research And Development Associate"
+dateString: October 2022- Jun 2022
 draft: false
 tags: ["Project Management", "Training Coordination", "Collaboration", "Vocational Training", "Museum Curating", "Mentorship", "Recruitment", "Training Programs"]
 showToc: false

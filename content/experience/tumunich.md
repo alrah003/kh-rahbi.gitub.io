@@ -1,7 +1,7 @@
 ---
 title: "Financal Analyst (Remote Work)"
 description: "Brainnest Consulting(Germany)"
-dateString: July 2021 – October 2021
+dateString: Jan 2021 – October 2021
 draft: false
 tags: []
 showToc: false

@@ -1,7 +1,7 @@
 ---
 title: "Computer Science Teaching Assistant "
 description: "German University Technology in Oman (GUtech) "
-dateString: September 2020 – July 2021
+dateString: April 2020 – July 2021
 draft: false
 tags: []
 showToc: false
