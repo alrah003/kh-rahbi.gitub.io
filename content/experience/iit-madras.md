@@ -1,7 +1,7 @@
 ---
 title: "AWS Solution Architect"
 description: "US Electronics, Inc."
-dateString: September 2019 – November 2019
+dateString: April 2019 – December 2020
 draft: false
 tags: []
 showToc: false
@@ -11,21 +11,24 @@ weight: 305
 
 ## Description
 
-During my professional experience, I had the opportunity to work in system administration and database management roles, where I played a crucial role in maintaining network protocols, deploying databases, and ensuring the availability and scalability of web platforms.
+During my tenure at US Electronics, Inc. as an AWS Solution Architect, I played a key role in leading the migration of legacy database systems to the AWS cloud. This initiative resulted in a significant improvement of 40% in system reliability and uptime. Additionally, I successfully implemented AWS cloud solutions for medical imaging software, leading to a notable 30% reduction in infrastructure costs.
 
-### UNIX/Linux EC2 Instances
+### Migration to AWS
 
-- **Updating and Patching**: I took responsibility for updating and patching UNIX/Linux EC2 instances. By staying up-to-date with the latest updates and patches, I ensured the security and smooth operation of the instances. Additionally, I maintained network protocols to ensure optimal performance.
+- Led the migration of legacy database systems to the AWS cloud infrastructure.
+- Achieved a remarkable 40% improvement in system reliability and uptime by leveraging AWS services and best practices.
 
-### MySQL Database Integration
+### Cloud Solutions for Medical Imaging Software
 
-- **WordPress Platform**: I developed, integrated, and deployed MySQL databases to design a highly available, scalable, and self-healing automation system for a WordPress platform. By leveraging AWS services, I achieved a robust and efficient database infrastructure that supported the platform's requirements.
+- Implemented AWS cloud solutions for medical imaging software, optimizing infrastructure and reducing costs by 30%.
+- Designed and deployed scalable and secure cloud architectures, resulting in a 25% improvement in application performance.
 
-### Network and Firewall Management
+### Collaborative Cross-functional Approach
 
-- **Responsibilities for Servers, Storage, and Databases**: I performed all necessary network and firewall responsibilities for servers, storage, and databases. This included implementing security measures, monitoring network traffic, and ensuring high fault-tolerant web architecture. By utilizing AWS cloud resources effectively, I created a resilient and secure environment.
+- Collaborated closely with cross-functional teams, including developers, operations, and security personnel, to design and deploy scalable and secure cloud architectures.
+- By fostering effective collaboration, we accelerated application performance, enhanced security, and improved overall efficiency.
 
-Through these experiences, I gained extensive knowledge and hands-on experience in system administration, database management, and cloud technologies. I developed a deep understanding of UNIX/Linux systems, AWS services, and database integration. Furthermore, my ability to manage network protocols and implement security measures contributed to the overall stability and reliability of the web platforms I worked on.
+Throughout my role as an AWS Solution Architect, I showcased my expertise in cloud migration, infrastructure optimization, and cross-functional collaboration. The successful migration of legacy database systems to AWS and the implementation of cost-effective cloud solutions highlight my ability to drive technological advancements and deliver results. I look forward to leveraging this experience and expertise in future endeavors.
 
 Overall, my professional experience in system administration and database management highlights my proficiency in maintaining infrastructure, deploying databases, and ensuring the availability and scalability of web platforms. I look forward to utilizing my skills and expertise in future projects and contributing to the success of organizations in their technology operations.
 
