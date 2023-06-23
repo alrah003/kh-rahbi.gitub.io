@@ -2,7 +2,7 @@
 title: "Technology Governance & Implementation Specialist "
 description: "Vodafone Oman"
 <br />  <!-- Add a new line space here -->
-author: "Minneapolis, MN"
+author: "Minneapolis, MN" <br /> 
 <br />  <!-- Add a new line space here -->
 dateString:  June 2022 – Present
 draft: false
