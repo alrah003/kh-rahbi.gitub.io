@@ -1,5 +1,6 @@
 ---
 title: "Technology Training Associate Consultant"
+description: "Majd Group"
 dateString: October 2021 – May 2022
 draft: false
 tags: ["Project Management", "IT Consultaing", "Collaboration", "Vocational Training", "Mentorship", "Recruitment", "Training Programs"]
