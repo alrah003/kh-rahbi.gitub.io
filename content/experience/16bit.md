@@ -1,10 +1,9 @@
 ---
 title: "Technology Governance & Implementation Specialist "
 description: "Vodafone Oman"
-<br />  <!-- Add a new line space here -->
-author: "Minneapolis, MN" <br /> 
-<br />  <!-- Add a new line space here -->
-dateString:  June 2022 – Present
+
+
+dateString:  June 2022 – Present <br /> Muscat, OM"
 draft: false
 tags: ["Agile Scrum Methodologies","Mobile App Testing", "User Experience Enhancement", "Android", "iOS", "5G", "VoLTE", "UX/UI", "Data Analysis", "Technical Testing", "Collaboration", "Data-Driven Decisions", "ChatBot Development"]
 
