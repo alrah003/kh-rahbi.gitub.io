@@ -1,7 +1,8 @@
 ---
 title: "AWS Solution Architect"
 description: "US Electronics, Inc."
-dateString: April 2019 – December 2020
+location: "Minneapolis, MN"
+dateString: April 2019 – March 2020 
 draft: false
 tags: []
 showToc: false
