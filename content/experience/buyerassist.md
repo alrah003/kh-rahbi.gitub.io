@@ -6,6 +6,8 @@ draft: false
 tags: ["Project Management", "IT Consultaing", "Collaboration", "Vocational Training", "Mentorship", "Recruitment", "Training Programs"]
 showToc: false
 weight: [Weight of the experience in my portfolio]
+
+weight: 302
 ---
 
 ## Description
