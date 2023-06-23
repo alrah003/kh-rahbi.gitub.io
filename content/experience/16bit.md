@@ -1,7 +1,8 @@
 ---
 title: "Technology Governance & Implementation Specialist "
 description: "Vodafone Oman"
-**Location: Minneapolis, MN**
+author: "John Doe"
+location: "Minneapolis, MN"
 dateString:  June 2022 – Present
 draft: false
 tags: ["Agile Scrum Methodologies","Mobile App Testing", "User Experience Enhancement", "Android", "iOS", "5G", "VoLTE", "UX/UI", "Data Analysis", "Technical Testing", "Collaboration", "Data-Driven Decisions", "ChatBot Development"]
