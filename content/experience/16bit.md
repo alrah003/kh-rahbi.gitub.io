@@ -1,7 +1,7 @@
 ---
 title: "Technology Governance & Implementation Specialist "
 description: "Vodafone Oman"
-author: "John Doe"
+author: "Minneapolis, MN"
 location: "Minneapolis, MN"
 dateString:  June 2022 – Present
 draft: false
