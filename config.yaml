@@ -74,9 +74,9 @@ params:
     - name: "github"
       url: "https://github.com/alrah003"
     - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: ""
     - name: "cv"
-      url: "https://drive.google.com/file/d/1MITtIbPfxvi1NJ0Cvl3mUWGh8Enno5J8/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1ilQwJd4OOxGFFxMF3-NF9IG-rUXzxdZD/view?usp=sharing"
 
   # text search
   fuseOpts:
